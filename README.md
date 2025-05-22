@@ -4,12 +4,9 @@ The Supply Chain Analytics Dashboard is designed to provide comprehensive visi
 # Dataset Used
 [Dataset](https://github.com/sandhyacherukuri8/Supply-Chain-Management/tree/master/Dataset)
 # Questions(KPIs)
-1.Total Sales (MTD, QTD, YTD):Tracks the total sales achieved within different time periods:
-    MTD (Month-to-Date): Sales from the start of the current month up to the current date.
-    QTD (Quarter-to-Date): Sales from the start of the current quarter up to the current date.
-    YTD (Year-to-Date): Sales from the start of the year up to the current date.
-2.Product Wise Sales:
-         Monitors sales figures segmented by individual products or product categories to identify top-performing and underperforming products.
+1.Total Sales (MTD, QTD, YTD):Tracks the total sales achieved within different time periods
+
+2.Product Wise Sales: Monitors sales figures segmented by individual products or product categories to identify top-performing and underperforming products.
 3.Sales Growth:
          Measures the percentage increase or decrease in sales compared to a previous period (e.g., month-over-month or year-over-year growth).
 4.Daily Sales Trend:
