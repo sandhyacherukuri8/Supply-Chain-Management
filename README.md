@@ -64,8 +64,8 @@ Excel, Tableau, Power BI, MY SQL
 
 # 🔍 Key Insights
 #### 📊 Sales Performance
-    - Total Sales amount across dashboards is consistently around $387M–$388M.
-    - Total Profit is reported at $170M, indicating a healthy profit margin (~44%).
+- Total Sales amount across dashboards is consistently around $387M–$388M.
+- Total Profit is reported at $170M, indicating a healthy profit margin (~44%).
 - Top Performing State: California dominates with $95.6M in sales.
 - Top Store by Sales: Tilloch Store #799 is the leading outlet with $6.23M in sales.
 
