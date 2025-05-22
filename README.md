@@ -55,6 +55,16 @@ Excel, Tableau, Power BI, MY SQL
 - Incorporate advanced analytics, such as trend analysis and forecasting.
 
 # Excel Dashboard
-(https://github.com/sandhyacherukuri8/Supply-Chain-Management/blob/master/Dashboards%20Images/Excel_Dashboard_Image.png)
+![Excel_Dashboard_Image](https://github.com/user-attachments/assets/69fd24e6-fc7f-4565-b751-1cd861b7dae8)
+# PowerBI Dashboard
+![PowerBI_Dashboard_Image](https://github.com/user-attachments/assets/420e0c67-6f09-4e54-a7cf-2d012e613d9f)
+# Tableau Dashboard
+![Tableau_Dashboard_Image](https://github.com/user-attachments/assets/4bcf89d0-ddb6-4ac3-8a75-9ecde48ba5b9)
+![Inventory Dashboard_Image](https://github.com/user-attachments/assets/f8ed435e-9a21-4e95-b7d1-86621e6c4728)
+
+# Project Insights
+# Final Conclusion
+
+
 
 
