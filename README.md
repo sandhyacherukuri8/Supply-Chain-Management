@@ -62,8 +62,45 @@ Excel, Tableau, Power BI, MY SQL
 ![Tableau_Dashboard_Image](https://github.com/user-attachments/assets/4bcf89d0-ddb6-4ac3-8a75-9ecde48ba5b9)
 ![Inventory Dashboard_Image](https://github.com/user-attachments/assets/f8ed435e-9a21-4e95-b7d1-86621e6c4728)
 
-# Project Insights
-# Final Conclusion
+# 🔍 Key Insights
+#### 📊 Sales Performance
+    - Total Sales amount across dashboards is consistently around $387M–$388M.
+    - Total Profit is reported at $170M, indicating a healthy profit margin (~44%).
+- Top Performing State: California dominates with $95.6M in sales.
+- Top Store by Sales: Tilloch Store #799 is the leading outlet with $6.23M in sales.
+
+#### 🌎 Regional Insights
+- The West region leads sales with ~29% share, followed by the South (~25%) and East (~18%).
+- Southwest region contributes the least (~11% of total sales).
+#### 💳 Payment Method Analysis
+- Debit is the most popular purchase method at $155M, double that of Cash or Credit (~$77M each).
+#### 📅 Sales Trends
+- Sales peaked around 2021–2022, with a noticeable drop in 2023 (down to ~$26M).
+- Sales remain steady across months but slightly higher in March–April.
+#### 🗂️ Product Category Performance
+- Top-Selling Categories:
+      - Arts & Entertainment – $90.47M (23% of total)
+      - Photography – $65.64M (17%)
+      - Music and Entertainment – ~16% each
+- Least Performing: Mobiles and Computers, both around $54M.
+#### 🏬 Inventory Analysis
+- Total Inventory: 1,096 items (Power BI), with Inventory Cost: $104.55K and Worth: $529K.
+- In-Stock vs Under-Stock: 801 In-Stock, 1,104 Under-Stock – indicates a stock management issue.
+#### Top Products by Sales:
+- Finger & Hand Cymbals – $11.78M
+- Harmonica Holders – $7.05M
+
+ # 📌 Key Takeaways
+- Sales and Profitability are strong, but 2023 shows a decline, requiring strategic adjustments.
+- The West region and California state are key markets; efforts should be made to sustain and grow there.
+- Debit payment method is preferred – marketing and offers could be targeted accordingly.
+- The inventory mismatch (understocking higher than in-stock) could lead to lost sales opportunities.
+- Arts & Entertainment and Photography are the best-performing categories; inventory focus should align with demand.
+- Top 5 stores contribute significantly to revenue – further investment or replication strategies may be beneficial.
+
+# ✅ Final Conclusion
+  The analysis of supply chain dashboards using Excel, Power BI, Tableau, and inventory tools provides a 360-degree view of the business performance. The company is in a strong financial position, with robust sales and profits. However, declining sales in 2023 and inventory imbalances highlight operational inefficiencies that require attention. Data-driven decision-making focused on regional strengths, product demand, and inventory optimization will be critical for sustaining growth and improving supply chain effectiveness.
+
 
 
 
