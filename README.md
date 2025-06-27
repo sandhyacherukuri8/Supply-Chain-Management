@@ -30,8 +30,7 @@ The Supply Chain Analytics Dashboard is designed to provide comprehensive visi
 - Purchase Method Wise Sales: Breaks down sales based on the method of purchase, such as online, in-store, cash, or credit card.
 # Dashboard interaction
 - [View Excel Dashboard](https://github.com/sandhyacherukuri8/Supply-Chain-Management/blob/master/Dashboard%20files/Excel%20Dashboard%20.xlsx)
-- [View PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/fb723eb7-f0ef-4ce9-9160-29ad8e893fe0/d62dc15c492b2b854580?experience=power-bi)
-- (https://github.com/sandhyacherukuri8/Supply-Chain-Management/blob/master/Dashboard%20files/PowerBI%20Dashboard.pbix)
+- [View PowerBI Dashboard](https://github.com/sandhyacherukuri8/Supply-Chain-Management/blob/master/Dashboard%20files/PowerBI%20Dashboard.pbix)
 - [View Tableau Dashboard](https://github.com/sandhyacherukuri8/Supply-Chain-Management/blob/master/Dashboard%20files/Tableau%20Dashboard%20.twbx)
 - [View SQL Queries](https://github.com/sandhyacherukuri8/Supply-Chain-Management/blob/master/Dashboard%20files/SQL%20Queries.sql)
 # Tools Used:
