@@ -59,7 +59,7 @@ Excel, Tableau, Power BI, MY SQL
 # PowerBI Dashboard
 ![PowerBI_Dashboard_Image](https://github.com/user-attachments/assets/420e0c67-6f09-4e54-a7cf-2d012e613d9f)
 # Tableau Dashboard
-![Tableau_Dashboard_Image](https://public.tableau.com/app/profile/sandhya.cherukuri5421/viz/TableauDashboard_17509337909200/Dashboard)
+![Tableau_Dashboard_Image](https://github.com/sandhyacherukuri8/Supply-Chain-Management/blob/master/Dashboards%20Images/Tableau_Dashboard_Image.png)
 ![Inventory Dashboard_Image](https://github.com/user-attachments/assets/f8ed435e-9a21-4e95-b7d1-86621e6c4728)
 
 # 🔍 Key Insights
